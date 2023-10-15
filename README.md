@@ -1,4 +1,5 @@
 # Dicoding Collection Dashboard ✨
+## Project by Louis Widi
 
 ## Setup environment
 ```
